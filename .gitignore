@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.pages-build-*/
+.venv-fonts/
+playwright-report/
+test-results/
+*.tsbuildinfo
+.env
+.env.local
+artifacts/qa/*.tmp
